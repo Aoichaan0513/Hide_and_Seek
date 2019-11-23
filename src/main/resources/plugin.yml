@@ -1,0 +1,11 @@
+name: Hide_and_Seek
+version: @version@
+main: org.aoichaan0513.hide_and_seek.Main
+authors: [Aoichaan0513]
+website: http://aoichaan0513.xyz
+depend:
+  - iDisguise
+
+commands:
+  start:
+  g_end:
